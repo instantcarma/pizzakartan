@@ -1,0 +1,696 @@
+/* Modern styles for Pizzakartan Södermalm */
+:root {
+  --wolt-color: #009de0;
+  --wolt-bg: #e6f6fd;
+  --foodora-color: #d70f64;
+  --foodora-bg: #fdf0f5;
+  --own-color: #10b981;
+  --own-bg: #ecfdf5;
+  --pickup-color: #6b7280;
+  --pickup-bg: #f3f4f6;
+  --primary: #ea580c;
+  --primary-hover: #c2410c;
+  --primary-bg: #fff7ed;
+  --slate-900: #0f172a;
+  --slate-800: #1e293b;
+  --slate-700: #334155;
+  --slate-600: #475569;
+  --slate-200: #e2e8f0;
+  --slate-100: #f1f5f9;
+  --slate-50: #f8fafc;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: var(--slate-900);
+  background-color: var(--slate-100);
+  overflow: hidden;
+  height: 100vh;
+  width: 100vw;
+}
+
+/* Layout container */
+.app-container {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+}
+
+/* Sidebar */
+.sidebar {
+  width: 440px;
+  min-width: 380px;
+  height: 100%;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 4px 0 24px rgba(0, 0, 0, 0.08);
+  z-index: 1000;
+  position: relative;
+  transition: transform 0.3s ease;
+}
+
+.sidebar-header {
+  padding: 1.25rem 1.5rem 1rem 1.5rem;
+  background: linear-gradient(135deg, #ea580c 0%, #f97316 100%);
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.brand-title {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-size: 1.35rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+.brand-badge {
+  background: rgba(255, 255, 255, 0.25);
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 0.2rem 0.6rem;
+  border-radius: 9999px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.header-subtitle {
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.9);
+  margin-top: 0.25rem;
+}
+
+/* Filter controls panel */
+.filter-panel {
+  padding: 1.25rem 1.5rem;
+  border-bottom: 1px solid var(--slate-200);
+  background: var(--slate-50);
+  max-height: 48vh;
+  overflow-y: auto;
+  scrollbar-width: thin;
+}
+
+.control-group {
+  margin-bottom: 1.1rem;
+}
+
+.control-group:last-child {
+  margin-bottom: 0;
+}
+
+.control-label {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--slate-700);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.4rem;
+}
+
+.control-val {
+  color: var(--primary);
+  font-weight: 700;
+  font-size: 0.85rem;
+}
+
+/* Address search input */
+.address-input-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.address-input {
+  width: 100%;
+  padding: 0.6rem 2.4rem 0.6rem 0.75rem;
+  font-size: 0.9rem;
+  border: 1.5px solid var(--slate-200);
+  border-radius: 0.5rem;
+  background: white;
+  transition: all 0.2s ease;
+  color: var(--slate-900);
+}
+
+.address-input:focus {
+  outline: none;
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px rgba(234, 88, 12, 0.15);
+}
+
+.locate-btn {
+  position: absolute;
+  right: 0.4rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.35rem;
+  color: var(--slate-600);
+  border-radius: 0.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.locate-btn:hover {
+  color: var(--primary);
+  background: var(--slate-100);
+}
+
+/* Sliders */
+.slider-input {
+  width: 100%;
+  accent-color: var(--primary);
+  cursor: pointer;
+  height: 6px;
+  border-radius: 3px;
+  background: var(--slate-200);
+}
+
+/* Delivery tags pills */
+.delivery-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.pill-btn {
+  border: 1.5px solid var(--slate-200);
+  background: white;
+  padding: 0.35rem 0.75rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  border-radius: 9999px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  color: var(--slate-700);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.pill-btn:hover {
+  border-color: var(--slate-400);
+  background: var(--slate-50);
+}
+
+.pill-btn.active {
+  background: var(--slate-900);
+  color: white;
+  border-color: var(--slate-900);
+}
+
+.pill-btn.wolt.active {
+  background: var(--wolt-color);
+  border-color: var(--wolt-color);
+  color: white;
+}
+
+.pill-btn.foodora.active {
+  background: var(--foodora-color);
+  border-color: var(--foodora-color);
+  color: white;
+}
+
+.pill-btn.own.active {
+  background: var(--own-color);
+  border-color: var(--own-color);
+  color: white;
+}
+
+/* Select dropdown */
+.select-dropdown {
+  width: 100%;
+  padding: 0.55rem 0.75rem;
+  font-size: 0.88rem;
+  border: 1.5px solid var(--slate-200);
+  border-radius: 0.5rem;
+  background: white;
+  color: var(--slate-800);
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.select-dropdown:focus {
+  outline: none;
+  border-color: var(--primary);
+}
+
+/* Results header & list */
+.results-header {
+  padding: 0.85rem 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid var(--slate-200);
+  background: white;
+}
+
+.results-count {
+  font-size: 0.88rem;
+  font-weight: 700;
+  color: var(--slate-800);
+}
+
+.sort-container {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.78rem;
+  color: var(--slate-600);
+}
+
+.sort-select {
+  border: 1px solid var(--slate-200);
+  border-radius: 0.35rem;
+  padding: 0.25rem 0.5rem;
+  font-size: 0.78rem;
+  background: white;
+  cursor: pointer;
+}
+
+.pizzeria-list {
+  flex: 1;
+  overflow-y: auto;
+  padding: 0.75rem 1.25rem;
+  scrollbar-width: thin;
+}
+
+/* Pizzeria Card */
+.pizzeria-card {
+  background: white;
+  border: 1.5px solid var(--slate-200);
+  border-radius: 0.75rem;
+  padding: 1rem;
+  margin-bottom: 0.75rem;
+  cursor: pointer;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  position: relative;
+}
+
+.pizzeria-card:hover {
+  border-color: var(--primary);
+  box-shadow: 0 4px 14px rgba(234, 88, 12, 0.12);
+  transform: translateY(-1.5px);
+}
+
+.pizzeria-card.selected {
+  border-color: var(--primary);
+  background: var(--primary-bg);
+  box-shadow: 0 4px 16px rgba(234, 88, 12, 0.18);
+}
+
+.card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 0.35rem;
+}
+
+.pizzeria-name {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--slate-900);
+}
+
+.pizzeria-address {
+  font-size: 0.78rem;
+  color: var(--slate-600);
+  margin-bottom: 0.5rem;
+}
+
+.badges-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-bottom: 0.6rem;
+}
+
+.badge {
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 0.2rem 0.5rem;
+  border-radius: 0.35rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.badge-wolt {
+  background: var(--wolt-bg);
+  color: var(--wolt-color);
+}
+
+.badge-foodora {
+  background: var(--foodora-bg);
+  color: var(--foodora-color);
+}
+
+.badge-own {
+  background: var(--own-bg);
+  color: var(--own-color);
+}
+
+.badge-pickup {
+  background: var(--pickup-bg);
+  color: var(--pickup-color);
+}
+
+.card-metrics {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 0.5rem;
+  border-top: 1px dashed var(--slate-200);
+  font-size: 0.82rem;
+}
+
+.metric-item {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  color: var(--slate-700);
+  font-weight: 600;
+}
+
+.metric-rating {
+  color: #b45309;
+}
+
+.metric-time {
+  color: #0369a1;
+}
+
+.metric-price {
+  color: #15803d;
+  font-size: 0.88rem;
+  font-weight: 700;
+}
+
+/* Map area */
+.map-container {
+  flex: 1;
+  height: 100%;
+  position: relative;
+}
+
+#map {
+  width: 100%;
+  height: 100%;
+}
+
+/* Map Legend */
+.map-legend {
+  position: absolute;
+  bottom: 24px;
+  right: 24px;
+  background: white;
+  padding: 0.75rem 1rem;
+  border-radius: 0.75rem;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+  z-index: 900;
+  font-size: 0.78rem;
+  border: 1px solid var(--slate-200);
+}
+
+.legend-title {
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  color: var(--slate-800);
+  text-transform: uppercase;
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.35rem;
+}
+
+.legend-item:last-child {
+  margin-bottom: 0;
+}
+
+.legend-dot {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  border: 2px solid white;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+/* Custom Marker Pins */
+.custom-pin {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 50% 50% 50% 0;
+  transform: rotate(-45deg);
+  border: 2px solid white;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.custom-pin:hover {
+  transform: rotate(-45deg) scale(1.15);
+}
+
+.custom-pin-inner {
+  transform: rotate(45deg);
+  font-size: 15px;
+  line-height: 1;
+}
+
+/* Origin marker with pulse */
+.origin-pin-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.origin-pin {
+  width: 28px;
+  height: 28px;
+  background: #2563eb;
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0 0 3px white, 0 4px 12px rgba(0, 0, 0, 0.35);
+  font-size: 14px;
+  z-index: 2;
+}
+
+.origin-pulse {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: rgba(37, 99, 235, 0.3);
+  animation: pulse-ring 2s infinite ease-out;
+  z-index: 1;
+}
+
+@keyframes pulse-ring {
+  0% {
+    transform: scale(0.6);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1.8);
+    opacity: 0;
+  }
+}
+
+/* Leaflet Popup Styling */
+.leaflet-popup-content-wrapper {
+  border-radius: 0.75rem;
+  padding: 0;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.18);
+  overflow: hidden;
+}
+
+.leaflet-popup-content {
+  margin: 0 !important;
+  line-height: 1.4;
+}
+
+.popup-container {
+  padding: 1rem;
+  width: 250px;
+}
+
+.popup-title {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--slate-900);
+  margin-bottom: 0.2rem;
+}
+
+.popup-address {
+  font-size: 0.75rem;
+  color: var(--slate-600);
+  margin-bottom: 0.6rem;
+}
+
+.popup-metrics {
+  display: flex;
+  justify-content: space-between;
+  background: var(--slate-50);
+  border-radius: 0.5rem;
+  padding: 0.45rem 0.6rem;
+  margin-bottom: 0.75rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.popup-pizza-price {
+  font-size: 0.82rem;
+  margin-bottom: 0.75rem;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid var(--slate-200);
+  padding-bottom: 0.4rem;
+}
+
+.popup-pizza-price span:last-child {
+  font-weight: 700;
+  color: #15803d;
+}
+
+.popup-buttons {
+  display: flex;
+  gap: 0.4rem;
+}
+
+.popup-btn {
+  flex: 1;
+  text-align: center;
+  padding: 0.4rem 0.5rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  border-radius: 0.35rem;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.25rem;
+}
+
+.popup-btn-wolt {
+  background: var(--wolt-color);
+  color: white;
+}
+
+.popup-btn-foodora {
+  background: var(--foodora-color);
+  color: white;
+}
+
+.popup-btn-map {
+  background: var(--slate-800);
+  color: white;
+}
+
+/* Mobile drag handle */
+.mobile-handle-bar {
+  display: none;
+  width: 100%;
+  padding: 0.6rem 0 0.4rem 0;
+  background: white;
+  justify-content: center;
+  align-items: center;
+  cursor: grab;
+  border-radius: 1.25rem 1.25rem 0 0;
+}
+
+.handle-pill {
+  width: 44px;
+  height: 5px;
+  background: #cbd5e1;
+  border-radius: 9999px;
+}
+
+@media (max-width: 768px) {
+  .app-container {
+    flex-direction: column;
+  }
+
+  .map-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+  }
+
+  .sidebar {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+    height: 80vh;
+    z-index: 1000;
+    border-radius: 1.25rem 1.25rem 0 0;
+    box-shadow: 0 -8px 30px rgba(0, 0, 0, 0.2);
+    transform: translateY(calc(100% - 78px));
+    transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .sidebar.open {
+    transform: translateY(0);
+  }
+
+  .mobile-handle-bar {
+    display: flex;
+  }
+
+  .sidebar-header {
+    padding: 0.6rem 1.25rem 0.75rem 1.25rem;
+    cursor: pointer;
+  }
+
+  .brand-title {
+    font-size: 1.15rem;
+  }
+
+  .header-subtitle {
+    font-size: 0.75rem;
+  }
+
+  .filter-panel {
+    max-height: 40vh;
+    padding: 1rem;
+  }
+
+  .map-legend {
+    top: 16px;
+    right: 16px;
+    bottom: auto;
+    padding: 0.5rem 0.75rem;
+    font-size: 0.72rem;
+  }
+}

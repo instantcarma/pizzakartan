@@ -1,0 +1,782 @@
+[
+  {
+    "id": "omnipollos-hatt",
+    "name": "Omnipollos Hatt",
+    "address": "Hökens gata 1A",
+    "neighborhood": "Slussen / Mosebacke",
+    "lat": 59.3196,
+    "lng": 18.0713,
+    "rating": 4.6,
+    "reviews_count": 2840,
+    "delivery": {
+      "wolt": true,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": false
+    },
+    "wolt_url": "https://wolt.com/sv/swe/stockholm/restaurant/omnipollos-hatt",
+    "foodora_url": "",
+    "website_url": "https://www.omnipolloshatt.com",
+    "pizzas": {
+      "Capricciosa": 185,
+      "Margherita": 165,
+      "Vesuvio": 175,
+      "Quattro Stagioni": 190,
+      "Special": 195
+    }
+  },
+  {
+    "id": "bistro-bananas",
+    "name": "Bistro Bananas",
+    "address": "Skånegatan 47",
+    "neighborhood": "Nytorget / SoFo",
+    "lat": 59.3129,
+    "lng": 18.0822,
+    "rating": 4.5,
+    "reviews_count": 1420,
+    "delivery": {
+      "wolt": true,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "https://bistrobananas.se",
+    "pizzas": {
+      "Capricciosa": 175,
+      "Margherita": 155,
+      "Vesuvio": 165,
+      "Quattro Stagioni": 185,
+      "Special": 190
+    }
+  },
+  {
+    "id": "crispy-pizza-bistro-soder",
+    "name": "Crispy Pizza Bistro Södermalm",
+    "address": "Hornsgatan 147",
+    "neighborhood": "Hornstull",
+    "lat": 59.3162,
+    "lng": 18.0375,
+    "rating": 4.6,
+    "reviews_count": 1150,
+    "delivery": {
+      "wolt": true,
+      "foodora": true,
+      "own_delivery": false,
+      "pickup_only": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "https://crispypizzabistro.se",
+    "pizzas": {
+      "Capricciosa": 169,
+      "Margherita": 149,
+      "Vesuvio": 159,
+      "Quattro Stagioni": 179,
+      "Kebabpizza": 179
+    }
+  },
+  {
+    "id": "pizzeria-primo-ciao-ciao",
+    "name": "Primo Ciao Ciao Södermalm",
+    "address": "Bondegatan 44",
+    "neighborhood": "SoFo",
+    "lat": 59.3138,
+    "lng": 18.0861,
+    "rating": 4.4,
+    "reviews_count": 1310,
+    "delivery": {
+      "wolt": true,
+      "foodora": true,
+      "own_delivery": false,
+      "pickup_only": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "https://primociaociao.se",
+    "pizzas": {
+      "Capricciosa": 160,
+      "Margherita": 140,
+      "Vesuvio": 150,
+      "Quattro Stagioni": 170,
+      "Kebabpizza": 175
+    }
+  },
+  {
+    "id": "pizzeria-il-forno-da-gino",
+    "name": "Il Forno da Gino",
+    "address": "Rosenlundsgatan 16",
+    "neighborhood": "Mariatorget / Södra Station",
+    "lat": 59.3155,
+    "lng": 18.0588,
+    "rating": 4.3,
+    "reviews_count": 890,
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": false,
+      "pickup_only": false
+    },
+    "wolt_url": "",
+    "foodora_url": "https://www.foodora.se/restaurant/s0jk/il-forno-da-gino",
+    "website_url": "https://ilfornodagino.se",
+    "pizzas": {
+      "Capricciosa": 135,
+      "Margherita": 120,
+      "Vesuvio": 130,
+      "Quattro Stagioni": 145,
+      "Kebabpizza": 145
+    }
+  },
+  {
+    "id": "la-piccola-nonna",
+    "name": "La Piccola Nonna",
+    "address": "Blekingegatan 40",
+    "neighborhood": "Skanstull",
+    "lat": 59.3115,
+    "lng": 18.0772,
+    "rating": 4.7,
+    "reviews_count": 970,
+    "delivery": {
+      "wolt": true,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "https://lapiccolanonna.se",
+    "pizzas": {
+      "Capricciosa": 170,
+      "Margherita": 145,
+      "Vesuvio": 160,
+      "Quattro Stagioni": 180,
+      "Special": 185
+    }
+  },
+  {
+    "id": "800-grader-soder",
+    "name": "800 Grader Slice Shop Söder",
+    "address": "Folkungagatan 94",
+    "neighborhood": "SoFo",
+    "lat": 59.3148,
+    "lng": 18.0833,
+    "rating": 4.6,
+    "reviews_count": 760,
+    "delivery": {
+      "wolt": true,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "https://800grader.se",
+    "pizzas": {
+      "Capricciosa": 175,
+      "Margherita": 150,
+      "Vesuvio": 165,
+      "Quattro Stagioni": 185,
+      "Special": 195
+    }
+  },
+  {
+    "id": "pizzeria-folkungagatan",
+    "name": "Pizzeria Folkungagatan",
+    "address": "Folkungagatan 61",
+    "neighborhood": "Medborgarplatsen / SoFo",
+    "lat": 59.3151,
+    "lng": 18.0766,
+    "rating": 4.1,
+    "reviews_count": 420,
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 125,
+      "Margherita": 110,
+      "Vesuvio": 120,
+      "Quattro Stagioni": 135,
+      "Kebabpizza": 135
+    }
+  },
+  {
+    "id": "pizzeria-soder-hornstull",
+    "name": "Pizzeria Hornstull",
+    "address": "Långholmsgatan 13",
+    "neighborhood": "Hornstull",
+    "lat": 59.3168,
+    "lng": 18.0336,
+    "rating": 4.0,
+    "reviews_count": 310,
+    "delivery": {
+      "wolt": true,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 125,
+      "Margherita": 115,
+      "Vesuvio": 125,
+      "Quattro Stagioni": 135,
+      "Kebabpizza": 140
+    }
+  },
+  {
+    "id": "pizzeria-dell-attore",
+    "name": "Dell'Attore Söder",
+    "address": "Skeppargatan 60",
+    "neighborhood": "Skanstull / Katarina",
+    "lat": 59.3108,
+    "lng": 18.0855,
+    "rating": 4.5,
+    "reviews_count": 680,
+    "delivery": {
+      "wolt": true,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "https://dellattore.se",
+    "pizzas": {
+      "Capricciosa": 165,
+      "Margherita": 145,
+      "Vesuvio": 155,
+      "Quattro Stagioni": 175,
+      "Special": 185
+    }
+  },
+  {
+    "id": "pizzeria-gotgatan-express",
+    "name": "Götgatan Pizzeria & Kebab",
+    "address": "Götgatan 88",
+    "neighborhood": "Skanstull",
+    "lat": 59.3105,
+    "lng": 18.0745,
+    "rating": 3.9,
+    "reviews_count": 520,
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 120,
+      "Margherita": 105,
+      "Vesuvio": 115,
+      "Quattro Stagioni": 130,
+      "Kebabpizza": 130
+    }
+  },
+  {
+    "id": "pizzeria-trumman",
+    "name": "Pizzeria Trumman",
+    "address": "Timmermansgatan 38",
+    "neighborhood": "Södra Station",
+    "lat": 59.3142,
+    "lng": 18.0645,
+    "rating": 4.2,
+    "reviews_count": 390,
+    "delivery": {
+      "wolt": false,
+      "foodora": false,
+      "own_delivery": true,
+      "pickup_only": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 115,
+      "Margherita": 100,
+      "Vesuvio": 110,
+      "Quattro Stagioni": 125,
+      "Kebabpizza": 125
+    }
+  },
+  {
+    "id": "pizzeria-mariatorget",
+    "name": "Pizzeria Mariatorget",
+    "address": "Sankt Paulsgatan 17",
+    "neighborhood": "Mariatorget",
+    "lat": 59.3179,
+    "lng": 18.0631,
+    "rating": 4.3,
+    "reviews_count": 640,
+    "delivery": {
+      "wolt": true,
+      "foodora": true,
+      "own_delivery": false,
+      "pickup_only": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 140,
+      "Margherita": 125,
+      "Vesuvio": 135,
+      "Quattro Stagioni": 150,
+      "Kebabpizza": 150
+    }
+  },
+  {
+    "id": "pizzeria-mamma-mia-soder",
+    "name": "Pizzeria Mamma Mia",
+    "address": "Ringvägen 131",
+    "neighborhood": "Skanstull",
+    "lat": 59.3082,
+    "lng": 18.0776,
+    "rating": 4.1,
+    "reviews_count": 480,
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 125,
+      "Margherita": 110,
+      "Vesuvio": 120,
+      "Quattro Stagioni": 135,
+      "Kebabpizza": 135
+    }
+  },
+  {
+    "id": "pizzeria-zinkensdamm",
+    "name": "Pizzeria Zinken",
+    "address": "Ringvägen 8",
+    "neighborhood": "Zinkensdamm",
+    "lat": 59.3175,
+    "lng": 18.0495,
+    "rating": 4.2,
+    "reviews_count": 510,
+    "delivery": {
+      "wolt": true,
+      "foodora": true,
+      "own_delivery": false,
+      "pickup_only": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 130,
+      "Margherita": 115,
+      "Vesuvio": 125,
+      "Quattro Stagioni": 140,
+      "Kebabpizza": 140
+    }
+  },
+  {
+    "id": "giro-pizzeria-soder",
+    "name": "Giro Pizzeria Napoletana Söder",
+    "address": "Timmermansgatan 24",
+    "neighborhood": "Mariatorget",
+    "lat": 59.3164,
+    "lng": 18.0642,
+    "rating": 4.7,
+    "reviews_count": 1890,
+    "delivery": {
+      "wolt": true,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "https://giropizzeria.se",
+    "pizzas": {
+      "Capricciosa": 180,
+      "Margherita": 155,
+      "Vesuvio": 170,
+      "Quattro Stagioni": 185,
+      "Special": 195
+    }
+  },
+  {
+    "id": "pizzeria-medis",
+    "name": "Pizzeria Medborgarplatsen",
+    "address": "Noe Arksgränd 1",
+    "neighborhood": "Medborgarplatsen",
+    "lat": 59.3156,
+    "lng": 18.0722,
+    "rating": 3.8,
+    "reviews_count": 340,
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": false,
+      "pickup_only": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 120,
+      "Margherita": 110,
+      "Vesuvio": 120,
+      "Quattro Stagioni": 135,
+      "Kebabpizza": 135
+    }
+  },
+  {
+    "id": "pizzeria-capri-soder",
+    "name": "Pizzeria Capri",
+    "address": "Kocksgatan 22",
+    "neighborhood": "SoFo",
+    "lat": 59.3141,
+    "lng": 18.0805,
+    "rating": 4.3,
+    "reviews_count": 590,
+    "delivery": {
+      "wolt": true,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 130,
+      "Margherita": 115,
+      "Vesuvio": 125,
+      "Quattro Stagioni": 140,
+      "Kebabpizza": 145
+    }
+  },
+  {
+    "id": "pizzeria-tavolo-soder",
+    "name": "Il Tavolo Antico",
+    "address": "Södermannagatan 32",
+    "neighborhood": "SoFo",
+    "lat": 59.3118,
+    "lng": 18.0818,
+    "rating": 4.4,
+    "reviews_count": 720,
+    "delivery": {
+      "wolt": true,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "https://iltavolo.se",
+    "pizzas": {
+      "Capricciosa": 165,
+      "Margherita": 140,
+      "Vesuvio": 155,
+      "Quattro Stagioni": 175,
+      "Special": 180
+    }
+  },
+  {
+    "id": "pizzeria-eriksdal",
+    "name": "Eriksdals Pizzeria",
+    "address": "Grindsgatan 31",
+    "neighborhood": "Skanstull / Eriksdal",
+    "lat": 59.3075,
+    "lng": 18.0725,
+    "rating": 4.2,
+    "reviews_count": 410,
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 125,
+      "Margherita": 110,
+      "Vesuvio": 120,
+      "Quattro Stagioni": 135,
+      "Kebabpizza": 135
+    }
+  },
+  {
+    "id": "pizzeria-reimers",
+    "name": "Reimersholme Pizzeria",
+    "address": "Reimersholmsgatan 1",
+    "neighborhood": "Hornstull / Reimersholme",
+    "lat": 59.3177,
+    "lng": 18.0261,
+    "rating": 4.3,
+    "reviews_count": 395,
+    "delivery": {
+      "wolt": true,
+      "foodora": true,
+      "own_delivery": false,
+      "pickup_only": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 135,
+      "Margherita": 120,
+      "Vesuvio": 130,
+      "Quattro Stagioni": 145,
+      "Kebabpizza": 150
+    }
+  },
+  {
+    "id": "pizzeria-langholmen",
+    "name": "Långholmens Pizzeria & Grill",
+    "address": "Högalidsgatan 34",
+    "neighborhood": "Hornstull",
+    "lat": 59.3188,
+    "lng": 18.0352,
+    "rating": 4.1,
+    "reviews_count": 320,
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 120,
+      "Margherita": 105,
+      "Vesuvio": 115,
+      "Quattro Stagioni": 130,
+      "Kebabpizza": 135
+    }
+  },
+  {
+    "id": "pizzeria-fatburen",
+    "name": "Fatburen Pizzeria",
+    "address": "Magnus Ladulåsgatan 3",
+    "neighborhood": "Medborgarplatsen / Södra Station",
+    "lat": 59.3146,
+    "lng": 18.0682,
+    "rating": 4.0,
+    "reviews_count": 290,
+    "delivery": {
+      "wolt": false,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": true
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 110,
+      "Margherita": 95,
+      "Vesuvio": 105,
+      "Quattro Stagioni": 120,
+      "Kebabpizza": 125
+    }
+  },
+  {
+    "id": "pizzeria-tanto",
+    "name": "Tanto Pizzeria & Bistro",
+    "address": "Wollmar Yxkullsgatan 52",
+    "neighborhood": "Zinkensdamm / Tanto",
+    "lat": 59.3161,
+    "lng": 18.0518,
+    "rating": 4.2,
+    "reviews_count": 450,
+    "delivery": {
+      "wolt": true,
+      "foodora": true,
+      "own_delivery": false,
+      "pickup_only": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 130,
+      "Margherita": 115,
+      "Vesuvio": 125,
+      "Quattro Stagioni": 140,
+      "Kebabpizza": 145
+    }
+  },
+  {
+    "id": "pizzeria-bellagio-soder",
+    "name": "Pizzeria Bellagio",
+    "address": "Renstiernas gata 21",
+    "neighborhood": "SoFo",
+    "lat": 59.3145,
+    "lng": 18.0858,
+    "rating": 4.4,
+    "reviews_count": 610,
+    "delivery": {
+      "wolt": true,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 140,
+      "Margherita": 125,
+      "Vesuvio": 135,
+      "Quattro Stagioni": 150,
+      "Kebabpizza": 150
+    }
+  },
+  {
+    "id": "pizzeria-katarina",
+    "name": "Katarina Pizzeria & Kolgrill",
+    "address": "Katarina Bangata 51",
+    "neighborhood": "Skanstull / Katarina",
+    "lat": 59.3112,
+    "lng": 18.0869,
+    "rating": 4.2,
+    "reviews_count": 520,
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 125,
+      "Margherita": 110,
+      "Vesuvio": 120,
+      "Quattro Stagioni": 135,
+      "Kebabpizza": 140
+    }
+  },
+  {
+    "id": "pizzeria-vitaberg",
+    "name": "Vita Bergen Pizzeria",
+    "address": "Malmgårdsvägen 2",
+    "neighborhood": "Vita Bergen",
+    "lat": 59.3118,
+    "lng": 18.0902,
+    "rating": 4.1,
+    "reviews_count": 380,
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": false,
+      "pickup_only": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 120,
+      "Margherita": 105,
+      "Vesuvio": 115,
+      "Quattro Stagioni": 130,
+      "Kebabpizza": 135
+    }
+  },
+  {
+    "id": "mosebacke-pizza-bar",
+    "name": "Mosebacke Pizza & Pasta",
+    "address": "Högbergsgatan 26",
+    "neighborhood": "Mosebacke",
+    "lat": 59.3171,
+    "lng": 18.0738,
+    "rating": 4.5,
+    "reviews_count": 810,
+    "delivery": {
+      "wolt": true,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 160,
+      "Margherita": 140,
+      "Vesuvio": 150,
+      "Quattro Stagioni": 170,
+      "Special": 180
+    }
+  },
+  {
+    "id": "pizzeria-blekingegatan",
+    "name": "Blekingegatans Pizzeria",
+    "address": "Blekingegatan 18",
+    "neighborhood": "Skanstull / Södra Station",
+    "lat": 59.3121,
+    "lng": 18.0698,
+    "rating": 4.0,
+    "reviews_count": 340,
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 118,
+      "Margherita": 105,
+      "Vesuvio": 115,
+      "Quattro Stagioni": 130,
+      "Kebabpizza": 130
+    }
+  },
+  {
+    "id": "pizzeria-danvik",
+    "name": "Danviks Pizzeria & Grill",
+    "address": "Alsnögatan 7",
+    "neighborhood": "Danvikstull",
+    "lat": 59.3142,
+    "lng": 18.1025,
+    "rating": 4.2,
+    "reviews_count": 470,
+    "delivery": {
+      "wolt": true,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 130,
+      "Margherita": 115,
+      "Vesuvio": 125,
+      "Quattro Stagioni": 140,
+      "Kebabpizza": 140
+    }
+  }
+]
