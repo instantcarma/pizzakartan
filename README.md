@@ -49,15 +49,29 @@ Detta startar en lokal webbserver på `http://localhost:8000` och öppnar den au
 
 ---
 
-## 📂 Projektstruktur
+## 📂 Projektstruktur & Versioner
+
+Pizzakartan är uppdelad i tre självständiga versioner som nås via startsidan:
 
 ```text
 pizzakartan/
-├── index.html            # Huvudapplikation och gränssnitt
-├── app.js                # Applikationslogik, Leaflet-kartmotor och körtidsberäkning
-├── styles.css            # CSS, färgteman, animationer och mobilanpassning
-├── pizzerias.json        # Strukturerad databas över pizzerior på Södermalm
-├── start.py              # Enkelt lokalt startskript för Python
+├── index.html            # Gemensam startsida & versionsväljare (V1 / V2 / V3)
+├── start.py              # Lokalt startskript för Python webbserver
+├── v1/                   # Version 1 – Pilot (30 pizzerior, bilkörtid)
+│   ├── index.html
+│   ├── app.js
+│   ├── styles.css
+│   └── pizzerias.json
+├── v2/                   # Version 2 – Komplett (67 pizzerior, gångtider, öppettider)
+│   ├── index.html
+│   ├── app.js
+│   ├── styles.css
+│   └── pizzerias.json
+├── v3/                   # Version 3 – Interaktiv pizza-byggare & 3-stegsflöde
+│   ├── index.html        # 3-stegsguide: Välj pizza, Inställningar, Resultat
+│   ├── app.js            # Ingrediensväljare, basmatchning, flimmerfri kartmotor
+│   ├── styles.css        # Kompakt mobilanpassat popup- och kortsystem
+│   └── pizzerias.json    # Databas med ingredienslistor och pizzautbud
 ├── assets/               # Bilder och förhandsvisningar
 │   └── preview-mobile.jpg
 ├── .gitignore
