@@ -1,0 +1,2309 @@
+[
+  {
+    "id": "omnipollos-hatt",
+    "name": "Omnipollos Hatt",
+    "address": "Hökens gata 1A",
+    "neighborhood": "Slussen / Mosebacke",
+    "lat": 59.3196,
+    "lng": 18.0713,
+    "rating": 4.6,
+    "reviews_count": 2840,
+    "category": "craft",
+    "category_label": "Napolitansk & Hantverk",
+    "category_desc": "Vedugnsbakat med surdeg, napolitansk stil och kreativa toppings",
+    "hours": {
+      "open": "12:00",
+      "close": "23:00",
+      "display": "12:00 – 23:00"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "https://wolt.com/sv/swe/stockholm/restaurant/omnipollos-hatt",
+    "foodora_url": "",
+    "website_url": "https://www.omnipolloshatt.com",
+    "pizzas": {
+      "Capricciosa": 185,
+      "Margherita": 165,
+      "Vesuvio": 175,
+      "Quattro Stagioni": 190
+    }
+  },
+  {
+    "id": "bistro-bananas",
+    "name": "Bistro Bananas",
+    "address": "Skånegatan 47",
+    "neighborhood": "Nytorget / SoFo",
+    "lat": 59.3129,
+    "lng": 18.0822,
+    "rating": 4.5,
+    "reviews_count": 1420,
+    "category": "craft",
+    "category_label": "Napolitansk & Hantverk",
+    "category_desc": "Populär kvartersbistro med vedugnsbakad napolitansk pizza och naturvin",
+    "hours": {
+      "open": "16:00",
+      "close": "23:00",
+      "display": "16:00 – 23:00"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "https://bistrobananas.se",
+    "pizzas": {
+      "Capricciosa": 175,
+      "Margherita": 155,
+      "Vesuvio": 165,
+      "Quattro Stagioni": 185
+    }
+  },
+  {
+    "id": "crispy-pizza-bistro-soder",
+    "name": "Crispy Pizza Bistro Södermalm",
+    "address": "Hornsgatan 147",
+    "neighborhood": "Hornstull",
+    "lat": 59.3162,
+    "lng": 18.0375,
+    "rating": 4.6,
+    "reviews_count": 1150,
+    "category": "craft",
+    "category_label": "Napolitansk & Hantverk",
+    "category_desc": "Tunn, krispig gourmetpizza med ekologiska råvaror",
+    "hours": {
+      "open": "11:30",
+      "close": "21:30",
+      "display": "11:30 – 21:30"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": true,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "https://crispypizzabistro.se",
+    "pizzas": {
+      "Capricciosa": 169,
+      "Margherita": 149,
+      "Vesuvio": 159,
+      "Quattro Stagioni": 179
+    }
+  },
+  {
+    "id": "pizzeria-primo-ciao-ciao",
+    "name": "Primo Ciao Ciao Södermalm",
+    "address": "Bondegatan 44",
+    "neighborhood": "SoFo",
+    "lat": 59.3138,
+    "lng": 18.0861,
+    "rating": 4.4,
+    "reviews_count": 1310,
+    "category": "trattoria",
+    "category_label": "Italiensk restaurang & Trattoria",
+    "category_desc": "Klassisk italiensk trattoria med stor vedugn, pasta och kötträtter",
+    "hours": {
+      "open": "11:00",
+      "close": "22:00",
+      "display": "11:00 – 22:00"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": true,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "https://primociaociao.se",
+    "pizzas": {
+      "Capricciosa": 160,
+      "Margherita": 140,
+      "Vesuvio": 150,
+      "Quattro Stagioni": 170
+    }
+  },
+  {
+    "id": "pizzeria-il-forno-da-gino",
+    "name": "Il Forno da Gino",
+    "address": "Rosenlundsgatan 16",
+    "neighborhood": "Mariatorget / Södra Station",
+    "lat": 59.3155,
+    "lng": 18.0588,
+    "rating": 4.3,
+    "reviews_count": 890,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Traditionell kvarterspizzeria med vedugn och klassiska svenska pizzor",
+    "hours": {
+      "open": "11:00",
+      "close": "21:30",
+      "display": "11:00 – 21:30"
+    },
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "https://www.foodora.se/restaurant/s0jk/il-forno-da-gino",
+    "website_url": "https://ilfornodagino.se",
+    "pizzas": {
+      "Capricciosa": 135,
+      "Margherita": 120,
+      "Vesuvio": 130,
+      "Quattro Stagioni": 145,
+      "Kebabpizza": 150
+    }
+  },
+  {
+    "id": "la-piccola-nonna",
+    "name": "La Piccola Nonna",
+    "address": "Blekingegatan 40",
+    "neighborhood": "Skanstull",
+    "lat": 59.3115,
+    "lng": 18.0772,
+    "rating": 4.7,
+    "reviews_count": 970,
+    "category": "craft",
+    "category_label": "Napolitansk & Hantverk",
+    "category_desc": "Renodlad napolitansk finpizzeria med högkvalitativa italienska råvaror",
+    "hours": {
+      "open": "12:00",
+      "close": "21:00",
+      "display": "12:00 – 21:00"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "https://lapiccolanonna.se",
+    "pizzas": {
+      "Capricciosa": 170,
+      "Margherita": 145,
+      "Vesuvio": 160,
+      "Quattro Stagioni": 180
+    }
+  },
+  {
+    "id": "800-grader-soder",
+    "name": "800 Grader Slice Shop Söder",
+    "address": "Folkungagatan 94",
+    "neighborhood": "SoFo",
+    "lat": 59.3148,
+    "lng": 18.0833,
+    "rating": 4.6,
+    "reviews_count": 760,
+    "category": "craft",
+    "category_label": "Napolitansk & Hantverk",
+    "category_desc": "New York / romerska slices och hantverkspizza med krispig botten",
+    "hours": {
+      "open": "11:30",
+      "close": "20:30",
+      "display": "11:30 – 20:30"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "https://800grader.se",
+    "pizzas": {
+      "Capricciosa": 175,
+      "Margherita": 150,
+      "Vesuvio": 165,
+      "Quattro Stagioni": 185
+    }
+  },
+  {
+    "id": "meno-male-soder",
+    "name": "Meno Male Södermalm",
+    "address": "Renstiernas gata 19",
+    "neighborhood": "SoFo",
+    "lat": 59.3149,
+    "lng": 18.0854,
+    "rating": 4.6,
+    "reviews_count": 1680,
+    "category": "craft",
+    "category_label": "Napolitansk & Hantverk",
+    "category_desc": "Autentisk napolitansk vedugn med San Marzano-tomater och fior di latte",
+    "hours": {
+      "open": "11:30",
+      "close": "22:00",
+      "display": "11:30 – 22:00"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": true,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "https://menomale.se",
+    "pizzas": {
+      "Capricciosa": 175,
+      "Margherita": 150,
+      "Vesuvio": 165,
+      "Quattro Stagioni": 185
+    }
+  },
+  {
+    "id": "savoj-soder",
+    "name": "Savoj Pizza",
+    "address": "Magnus Ladulåsgatan 4",
+    "neighborhood": "Medborgarplatsen / Södra Station",
+    "lat": 59.3144,
+    "lng": 18.0691,
+    "rating": 4.6,
+    "reviews_count": 620,
+    "category": "craft",
+    "category_label": "Napolitansk & Hantverk",
+    "category_desc": "Nytänkande surdegspizza med japanska och nordiska smakinfluenser",
+    "hours": {
+      "open": "11:30",
+      "close": "21:00",
+      "display": "11:30 – 21:00"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "https://savojsthlm.se",
+    "pizzas": {
+      "Capricciosa": 180,
+      "Margherita": 155,
+      "Vesuvio": 170,
+      "Quattro Stagioni": 190
+    }
+  },
+  {
+    "id": "forno-soder",
+    "name": "Forno Söder",
+    "address": "Åsögatan 90",
+    "neighborhood": "SoFo",
+    "lat": 59.3134,
+    "lng": 18.0779,
+    "rating": 4.5,
+    "reviews_count": 540,
+    "category": "craft",
+    "category_label": "Napolitansk & Hantverk",
+    "category_desc": "Italiensk stenugnsbakt pizza i hjärtat av SoFo",
+    "hours": {
+      "open": "11:00",
+      "close": "21:30",
+      "display": "11:00 – 21:30"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": true,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "https://fornosoder.se",
+    "pizzas": {
+      "Capricciosa": 155,
+      "Margherita": 135,
+      "Vesuvio": 145,
+      "Quattro Stagioni": 165
+    }
+  },
+  {
+    "id": "bitza-hornstull",
+    "name": "Bitza",
+    "address": "Hornsbruksgatan 24",
+    "neighborhood": "Hornstull",
+    "lat": 59.3169,
+    "lng": 18.0345,
+    "rating": 4.4,
+    "reviews_count": 890,
+    "category": "craft",
+    "category_label": "Napolitansk & Hantverk",
+    "category_desc": "Unika pizzor med arabiska kryddor och smaker på napolitansk deg",
+    "hours": {
+      "open": "12:00",
+      "close": "22:00",
+      "display": "12:00 – 22:00"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "https://bitza.se",
+    "pizzas": {
+      "Capricciosa": 165,
+      "Margherita": 145,
+      "Vesuvio": 155,
+      "Quattro Stagioni": 175
+    }
+  },
+  {
+    "id": "restaurang-il-tempo",
+    "name": "Ristorante Il Tempo",
+    "address": "Högbergsgatan 40",
+    "neighborhood": "Mariatorget",
+    "lat": 59.3174,
+    "lng": 18.0674,
+    "rating": 4.4,
+    "reviews_count": 1340,
+    "category": "trattoria",
+    "category_label": "Italiensk restaurang & Trattoria",
+    "category_desc": "Italiensk New York-trattoria med romerska tunna pizzor, pasta och drinkar",
+    "hours": {
+      "open": "17:00",
+      "close": "23:00",
+      "display": "17:00 – 23:00"
+    },
+    "delivery": {
+      "wolt": false,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": true,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "https://iltempo.se",
+    "pizzas": {
+      "Capricciosa": 195,
+      "Margherita": 175,
+      "Vesuvio": 185,
+      "Quattro Stagioni": 210
+    }
+  },
+  {
+    "id": "il-nostro-sofia",
+    "name": "Il Nostro",
+    "address": "Tegelviksgatan 67",
+    "neighborhood": "Sofia / Hammarby Sjöstad-gränsen",
+    "lat": 59.3117,
+    "lng": 18.0988,
+    "rating": 4.5,
+    "reviews_count": 480,
+    "category": "trattoria",
+    "category_label": "Italiensk restaurang & Trattoria",
+    "category_desc": "Mysig italiensk kvarterskrog med vedugnspizza och pasta vid Norra Hammarbyhamnen",
+    "hours": {
+      "open": "16:00",
+      "close": "22:00",
+      "display": "16:00 – 22:00"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "https://ilnostro.se",
+    "pizzas": {
+      "Capricciosa": 175,
+      "Margherita": 155,
+      "Vesuvio": 165,
+      "Quattro Stagioni": 185
+    }
+  },
+  {
+    "id": "giro-pizzeria-soder",
+    "name": "Giro Pizzeria Napoletana Söder",
+    "address": "Timmermansgatan 24",
+    "neighborhood": "Mariatorget",
+    "lat": 59.3164,
+    "lng": 18.0642,
+    "rating": 4.7,
+    "reviews_count": 1890,
+    "category": "craft",
+    "category_label": "Napolitansk & Hantverk",
+    "category_desc": "Certifierad napolitansk pizza bakad i samarbete med Da Michele i Neapel",
+    "hours": {
+      "open": "11:30",
+      "close": "22:00",
+      "display": "11:30 – 22:00"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "https://giropizzeria.se",
+    "pizzas": {
+      "Capricciosa": 180,
+      "Margherita": 155,
+      "Vesuvio": 170,
+      "Quattro Stagioni": 185
+    }
+  },
+  {
+    "id": "pizzeria-verona-soder",
+    "name": "Pizzeria Verona",
+    "address": "Ringvägen 79",
+    "neighborhood": "Skanstull",
+    "lat": 59.3101,
+    "lng": 18.0718,
+    "rating": 4.2,
+    "reviews_count": 430,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Klassisk kvarterspizzeria med rejäla portioner och snabb service",
+    "hours": {
+      "open": "10:30",
+      "close": "21:30",
+      "display": "10:30 – 21:30"
+    },
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 125,
+      "Margherita": 110,
+      "Vesuvio": 120,
+      "Quattro Stagioni": 135,
+      "Kebabpizza": 140
+    }
+  },
+  {
+    "id": "pizzeria-parma-soder",
+    "name": "Parma Pizzeria",
+    "address": "Ringvägen 56",
+    "neighborhood": "Zinkensdamm",
+    "lat": 59.3159,
+    "lng": 18.0531,
+    "rating": 4.1,
+    "reviews_count": 390,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Kvarterspizzeria med klassiska pizzor, kebab och calzone",
+    "hours": {
+      "open": "11:00",
+      "close": "21:00",
+      "display": "11:00 – 21:00"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": true,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 125,
+      "Margherita": 110,
+      "Vesuvio": 120,
+      "Quattro Stagioni": 135,
+      "Kebabpizza": 140
+    }
+  },
+  {
+    "id": "pizzeria-soder-bjorngardsgatan",
+    "name": "Pizzeria Söder",
+    "address": "Björngårdsgatan 13",
+    "neighborhood": "Mariatorget",
+    "lat": 59.3172,
+    "lng": 18.0628,
+    "rating": 4.3,
+    "reviews_count": 520,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Anrik kvarterspizzeria mitt på Söder med klassisk svensk pizzameny",
+    "hours": {
+      "open": "11:00",
+      "close": "21:30",
+      "display": "11:00 – 21:30"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 130,
+      "Margherita": 115,
+      "Vesuvio": 125,
+      "Quattro Stagioni": 140,
+      "Kebabpizza": 145
+    }
+  },
+  {
+    "id": "tinos-pizzeria-sofo",
+    "name": "Tinos Pizzeria & Trattoria",
+    "address": "Kocksgatan 3",
+    "neighborhood": "SoFo",
+    "lat": 59.3142,
+    "lng": 18.0771,
+    "rating": 4.2,
+    "reviews_count": 470,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Klassisk kvarterspizzeria i SoFo med både avhämtning och bordsservering",
+    "hours": {
+      "open": "11:00",
+      "close": "21:30",
+      "display": "11:00 – 21:30"
+    },
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 125,
+      "Margherita": 110,
+      "Vesuvio": 120,
+      "Quattro Stagioni": 135,
+      "Kebabpizza": 140
+    }
+  },
+  {
+    "id": "da-peppe-trattoria",
+    "name": "Da Peppe Ristorante & Pizzeria",
+    "address": "Sankt Paulsgatan 13",
+    "neighborhood": "Mariatorget",
+    "lat": 59.3181,
+    "lng": 18.0645,
+    "rating": 4.3,
+    "reviews_count": 780,
+    "category": "trattoria",
+    "category_label": "Italiensk restaurang & Trattoria",
+    "category_desc": "Italiensk familjerestaurang med hemgjord pasta, antipasti och stenugnspizza",
+    "hours": {
+      "open": "16:00",
+      "close": "22:30",
+      "display": "16:00 – 22:30"
+    },
+    "delivery": {
+      "wolt": false,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": true,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "https://dapeppe.se",
+    "pizzas": {
+      "Capricciosa": 165,
+      "Margherita": 145,
+      "Vesuvio": 155,
+      "Quattro Stagioni": 175
+    }
+  },
+  {
+    "id": "gazza-soder",
+    "name": "Gazza",
+    "address": "Hornsgatan 66",
+    "neighborhood": "Mariatorget",
+    "lat": 59.3175,
+    "lng": 18.0562,
+    "rating": 4.5,
+    "reviews_count": 690,
+    "category": "trattoria",
+    "category_label": "Italiensk restaurang & Trattoria",
+    "category_desc": "Modern italiensk krog med fokus på hantverkspasta, säsongsrätter och utvalda pizzor",
+    "hours": {
+      "open": "17:00",
+      "close": "23:00",
+      "display": "17:00 – 23:00"
+    },
+    "delivery": {
+      "wolt": false,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": true
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "https://gazza.se",
+    "pizzas": {
+      "Margherita": 160
+    }
+  },
+  {
+    "id": "pizzeria-tavolo-soder",
+    "name": "Il Tavolo Antico",
+    "address": "Södermannagatan 32",
+    "neighborhood": "SoFo",
+    "lat": 59.3118,
+    "lng": 18.0818,
+    "rating": 4.4,
+    "reviews_count": 720,
+    "category": "trattoria",
+    "category_label": "Italiensk restaurang & Trattoria",
+    "category_desc": "Charmig italiensk kvarterskrog med vedugnspizzor och rustik pasta",
+    "hours": {
+      "open": "16:00",
+      "close": "22:30",
+      "display": "16:00 – 22:30"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "https://iltavolo.se",
+    "pizzas": {
+      "Capricciosa": 165,
+      "Margherita": 140,
+      "Vesuvio": 155,
+      "Quattro Stagioni": 175
+    }
+  },
+  {
+    "id": "babas-pizza-soder",
+    "name": "Babas Pizza & Deli Söder",
+    "address": "Ringvägen 126",
+    "neighborhood": "Skanstull",
+    "lat": 59.3087,
+    "lng": 18.0762,
+    "rating": 4.5,
+    "reviews_count": 610,
+    "category": "craft",
+    "category_label": "Napolitansk & Hantverk",
+    "category_desc": "Street food-inspirerad hantverkspizza med generösa råvaror",
+    "hours": {
+      "open": "11:00",
+      "close": "21:00",
+      "display": "11:00 – 21:00"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": true,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "https://babaspizza.se",
+    "pizzas": {
+      "Capricciosa": 155,
+      "Margherita": 135,
+      "Vesuvio": 145,
+      "Quattro Stagioni": 165
+    }
+  },
+  {
+    "id": "ciao-ciao-soder",
+    "name": "Ciao Ciao Hornsgatan",
+    "address": "Hornsgatan 81",
+    "neighborhood": "Zinkensdamm",
+    "lat": 59.3171,
+    "lng": 18.0525,
+    "rating": 4.2,
+    "reviews_count": 810,
+    "category": "trattoria",
+    "category_label": "Italiensk restaurang & Trattoria",
+    "category_desc": "Italiensk restaurang med vedugnsbakad pizza och ett brett vinutbud",
+    "hours": {
+      "open": "11:00",
+      "close": "22:00",
+      "display": "11:00 – 22:00"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": true,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "https://ciaociaogrande.se",
+    "pizzas": {
+      "Capricciosa": 160,
+      "Margherita": 140,
+      "Vesuvio": 150,
+      "Quattro Stagioni": 170
+    }
+  },
+  {
+    "id": "pizzeria-folkungagatan",
+    "name": "Pizzeria Folkungagatan",
+    "address": "Folkungagatan 61",
+    "neighborhood": "Medborgarplatsen / SoFo",
+    "lat": 59.3151,
+    "lng": 18.0766,
+    "rating": 4.1,
+    "reviews_count": 420,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Klassisk kvarterspizzeria med prisvärda menyer, kebab och falafel",
+    "hours": {
+      "open": "10:30",
+      "close": "21:30",
+      "display": "10:30 – 21:30"
+    },
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 125,
+      "Margherita": 110,
+      "Vesuvio": 120,
+      "Quattro Stagioni": 135,
+      "Kebabpizza": 140
+    }
+  },
+  {
+    "id": "pizzeria-soder-hornstull",
+    "name": "Pizzeria Hornstull",
+    "address": "Långholmsgatan 13",
+    "neighborhood": "Hornstull",
+    "lat": 59.3168,
+    "lng": 18.0336,
+    "rating": 4,
+    "reviews_count": 310,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Klassisk pizzeria vid Hornstulls tunnelbana med snabb service och avhämtning",
+    "hours": {
+      "open": "11:00",
+      "close": "21:30",
+      "display": "11:00 – 21:30"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 125,
+      "Margherita": 115,
+      "Vesuvio": 125,
+      "Quattro Stagioni": 135,
+      "Kebabpizza": 140
+    }
+  },
+  {
+    "id": "pizzeria-dell-attore",
+    "name": "Dell'Attore Söder",
+    "address": "Skeppargatan 60",
+    "neighborhood": "Skanstull / Katarina",
+    "lat": 59.3108,
+    "lng": 18.0855,
+    "rating": 4.5,
+    "reviews_count": 680,
+    "category": "craft",
+    "category_label": "Napolitansk & Hantverk",
+    "category_desc": "Teater- och filminspirerad italiensk pizzeria med hantverkspizzor och tunn botten",
+    "hours": {
+      "open": "16:30",
+      "close": "22:00",
+      "display": "16:30 – 22:00"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "https://dellattore.se",
+    "pizzas": {
+      "Capricciosa": 165,
+      "Margherita": 145,
+      "Vesuvio": 155,
+      "Quattro Stagioni": 175
+    }
+  },
+  {
+    "id": "pizzeria-gotgatan-express",
+    "name": "Götgatan Pizzeria & Kebab",
+    "address": "Götgatan 88",
+    "neighborhood": "Skanstull",
+    "lat": 59.3105,
+    "lng": 18.0745,
+    "rating": 3.9,
+    "reviews_count": 520,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Centralt läge på Götgatan med klassiska pan- och tunnbrödspizzor",
+    "hours": {
+      "open": "10:30",
+      "close": "22:00",
+      "display": "10:30 – 22:00"
+    },
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 120,
+      "Margherita": 105,
+      "Vesuvio": 115,
+      "Quattro Stagioni": 130,
+      "Kebabpizza": 135
+    }
+  },
+  {
+    "id": "pizzeria-trumman",
+    "name": "Pizzeria Trumman",
+    "address": "Timmermansgatan 38",
+    "neighborhood": "Södra Station",
+    "lat": 59.3142,
+    "lng": 18.0645,
+    "rating": 4.2,
+    "reviews_count": 390,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Kvarterspizzeria med trogen stamkundskrets och egen utkörning",
+    "hours": {
+      "open": "11:00",
+      "close": "21:00",
+      "display": "11:00 – 21:00"
+    },
+    "delivery": {
+      "wolt": false,
+      "foodora": false,
+      "own_delivery": true,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 115,
+      "Margherita": 100,
+      "Vesuvio": 110,
+      "Quattro Stagioni": 125,
+      "Kebabpizza": 130
+    }
+  },
+  {
+    "id": "pizzeria-mariatorget",
+    "name": "Pizzeria Mariatorget",
+    "address": "Sankt Paulsgatan 17",
+    "neighborhood": "Mariatorget",
+    "lat": 59.3179,
+    "lng": 18.0631,
+    "rating": 4.3,
+    "reviews_count": 640,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Klassisk pizzeria vid Mariatorget med krispiga bottnar och fräscha råvaror",
+    "hours": {
+      "open": "11:00",
+      "close": "21:30",
+      "display": "11:00 – 21:30"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": true,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 140,
+      "Margherita": 125,
+      "Vesuvio": 135,
+      "Quattro Stagioni": 150,
+      "Kebabpizza": 155
+    }
+  },
+  {
+    "id": "pizzeria-mamma-mia-soder",
+    "name": "Pizzeria Mamma Mia",
+    "address": "Ringvägen 131",
+    "neighborhood": "Skanstull",
+    "lat": 59.3082,
+    "lng": 18.0776,
+    "rating": 4.1,
+    "reviews_count": 480,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Traditionell kvarterspizzeria nära Skanstulls torg",
+    "hours": {
+      "open": "11:00",
+      "close": "21:00",
+      "display": "11:00 – 21:00"
+    },
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 125,
+      "Margherita": 110,
+      "Vesuvio": 120,
+      "Quattro Stagioni": 135,
+      "Kebabpizza": 140
+    }
+  },
+  {
+    "id": "pizzeria-zinkensdamm",
+    "name": "Pizzeria Zinken",
+    "address": "Ringvägen 8",
+    "neighborhood": "Zinkensdamm",
+    "lat": 59.3175,
+    "lng": 18.0495,
+    "rating": 4.2,
+    "reviews_count": 510,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Välbesökt kvarterspizzeria vid Zinkensdamms IP med pizza och kebab",
+    "hours": {
+      "open": "11:00",
+      "close": "21:30",
+      "display": "11:00 – 21:30"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": true,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 130,
+      "Margherita": 115,
+      "Vesuvio": 125,
+      "Quattro Stagioni": 140,
+      "Kebabpizza": 145
+    }
+  },
+  {
+    "id": "pizzeria-medis",
+    "name": "Pizzeria Medborgarplatsen",
+    "address": "Noe Arksgränd 1",
+    "neighborhood": "Medborgarplatsen",
+    "lat": 59.3156,
+    "lng": 18.0722,
+    "rating": 3.8,
+    "reviews_count": 340,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Snabb kvarterspizzeria precis intill Medborgarplatsen",
+    "hours": {
+      "open": "10:30",
+      "close": "22:00",
+      "display": "10:30 – 22:00"
+    },
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 120,
+      "Margherita": 110,
+      "Vesuvio": 120,
+      "Quattro Stagioni": 135,
+      "Kebabpizza": 135
+    }
+  },
+  {
+    "id": "pizzeria-capri-soder",
+    "name": "Pizzeria Capri",
+    "address": "Kocksgatan 22",
+    "neighborhood": "SoFo",
+    "lat": 59.3141,
+    "lng": 18.0805,
+    "rating": 4.3,
+    "reviews_count": 590,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Populär kvarterspizzeria i SoFo med god botten och rikligt med pålägg",
+    "hours": {
+      "open": "11:00",
+      "close": "21:30",
+      "display": "11:00 – 21:30"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 130,
+      "Margherita": 115,
+      "Vesuvio": 125,
+      "Quattro Stagioni": 140,
+      "Kebabpizza": 145
+    }
+  },
+  {
+    "id": "pizzeria-eriksdal",
+    "name": "Eriksdals Pizzeria",
+    "address": "Grindsgatan 31",
+    "neighborhood": "Skanstull / Eriksdal",
+    "lat": 59.3075,
+    "lng": 18.0725,
+    "rating": 4.2,
+    "reviews_count": 410,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Kvarterspizzeria nära Eriksdalsbadet med klassisk svensk meny",
+    "hours": {
+      "open": "11:00",
+      "close": "21:00",
+      "display": "11:00 – 21:00"
+    },
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 125,
+      "Margherita": 110,
+      "Vesuvio": 120,
+      "Quattro Stagioni": 135,
+      "Kebabpizza": 140
+    }
+  },
+  {
+    "id": "pizzeria-reimers",
+    "name": "Reimersholme Pizzeria",
+    "address": "Reimersholmsgatan 1",
+    "neighborhood": "Hornstull / Reimersholme",
+    "lat": 59.3177,
+    "lng": 18.0261,
+    "rating": 4.3,
+    "reviews_count": 395,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Omtyckt ö-pizzeria precis vid bron till Reimersholme",
+    "hours": {
+      "open": "11:00",
+      "close": "21:00",
+      "display": "11:00 – 21:00"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": true,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 135,
+      "Margherita": 120,
+      "Vesuvio": 130,
+      "Quattro Stagioni": 145,
+      "Kebabpizza": 150
+    }
+  },
+  {
+    "id": "pizzeria-langholmen",
+    "name": "Långholmens Pizzeria & Grill",
+    "address": "Högalidsgatan 34",
+    "neighborhood": "Hornstull",
+    "lat": 59.3188,
+    "lng": 18.0352,
+    "rating": 4.1,
+    "reviews_count": 320,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Klassisk pizzeria och grill intill Högalidsparken",
+    "hours": {
+      "open": "11:00",
+      "close": "21:00",
+      "display": "11:00 – 21:00"
+    },
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 120,
+      "Margherita": 105,
+      "Vesuvio": 115,
+      "Quattro Stagioni": 130,
+      "Kebabpizza": 135
+    }
+  },
+  {
+    "id": "pizzeria-fatburen",
+    "name": "Fatburen Pizzeria",
+    "address": "Magnus Ladulåsgatan 3",
+    "neighborhood": "Medborgarplatsen / Södra Station",
+    "lat": 59.3146,
+    "lng": 18.0682,
+    "rating": 4,
+    "reviews_count": 290,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Kvarterspizzeria med fokus på snabb avhämtning och luncher",
+    "hours": {
+      "open": "10:30",
+      "close": "20:30",
+      "display": "10:30 – 20:30"
+    },
+    "delivery": {
+      "wolt": false,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": true,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 110,
+      "Margherita": 95,
+      "Vesuvio": 105,
+      "Quattro Stagioni": 120,
+      "Kebabpizza": 125
+    }
+  },
+  {
+    "id": "pizzeria-tanto",
+    "name": "Tanto Pizzeria & Bistro",
+    "address": "Wollmar Yxkullsgatan 52",
+    "neighborhood": "Zinkensdamm / Tanto",
+    "lat": 59.3161,
+    "lng": 18.0518,
+    "rating": 4.2,
+    "reviews_count": 450,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Trevlig kvarterspizzeria nära Tantolunden med klassiska och inbakade pizzor",
+    "hours": {
+      "open": "11:00",
+      "close": "21:30",
+      "display": "11:00 – 21:30"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": true,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 130,
+      "Margherita": 115,
+      "Vesuvio": 125,
+      "Quattro Stagioni": 140,
+      "Kebabpizza": 145
+    }
+  },
+  {
+    "id": "pizzeria-bellagio-soder",
+    "name": "Pizzeria Bellagio",
+    "address": "Renstiernas gata 21",
+    "neighborhood": "SoFo",
+    "lat": 59.3145,
+    "lng": 18.0858,
+    "rating": 4.4,
+    "reviews_count": 610,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Välkänt kvartersställe i SoFo med god pizza, pasta och sallader",
+    "hours": {
+      "open": "11:00",
+      "close": "22:00",
+      "display": "11:00 – 22:00"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 140,
+      "Margherita": 125,
+      "Vesuvio": 135,
+      "Quattro Stagioni": 150,
+      "Kebabpizza": 155
+    }
+  },
+  {
+    "id": "pizzeria-katarina",
+    "name": "Katarina Pizzeria & Kolgrill",
+    "address": "Katarina Bangata 51",
+    "neighborhood": "Skanstull / Katarina",
+    "lat": 59.3112,
+    "lng": 18.0869,
+    "rating": 4.2,
+    "reviews_count": 520,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Kvarterspizzeria med kolgrill och goda klassiska pizzor",
+    "hours": {
+      "open": "11:00",
+      "close": "21:30",
+      "display": "11:00 – 21:30"
+    },
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 125,
+      "Margherita": 110,
+      "Vesuvio": 120,
+      "Quattro Stagioni": 135,
+      "Kebabpizza": 140
+    }
+  },
+  {
+    "id": "pizzeria-vitaberg",
+    "name": "Vita Bergen Pizzeria",
+    "address": "Malmgårdsvägen 2",
+    "neighborhood": "Vita Bergen",
+    "lat": 59.3118,
+    "lng": 18.0902,
+    "rating": 4.1,
+    "reviews_count": 380,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Kvarterspizzeria invid Vitabergsparken med solig uteservering om sommaren",
+    "hours": {
+      "open": "11:00",
+      "close": "21:00",
+      "display": "11:00 – 21:00"
+    },
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 120,
+      "Margherita": 105,
+      "Vesuvio": 115,
+      "Quattro Stagioni": 130,
+      "Kebabpizza": 135
+    }
+  },
+  {
+    "id": "mosebacke-pizza-bar",
+    "name": "Mosebacke Pizza & Pasta",
+    "address": "Högbergsgatan 26",
+    "neighborhood": "Mosebacke",
+    "lat": 59.3171,
+    "lng": 18.0738,
+    "rating": 4.5,
+    "reviews_count": 810,
+    "category": "trattoria",
+    "category_label": "Italiensk restaurang & Trattoria",
+    "category_desc": "Italienskt inspirerat pizzaställe uppe på Mosebacke",
+    "hours": {
+      "open": "12:00",
+      "close": "22:00",
+      "display": "12:00 – 22:00"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 160,
+      "Margherita": 140,
+      "Vesuvio": 150,
+      "Quattro Stagioni": 170
+    }
+  },
+  {
+    "id": "pizzeria-blekingegatan",
+    "name": "Blekingegatans Pizzeria",
+    "address": "Blekingegatan 18",
+    "neighborhood": "Skanstull / Södra Station",
+    "lat": 59.3121,
+    "lng": 18.0698,
+    "rating": 4,
+    "reviews_count": 340,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Prisvärd kvarterspizzeria med snabb avhämtning och hemkörning",
+    "hours": {
+      "open": "11:00",
+      "close": "21:00",
+      "display": "11:00 – 21:00"
+    },
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 118,
+      "Margherita": 105,
+      "Vesuvio": 115,
+      "Quattro Stagioni": 130,
+      "Kebabpizza": 133
+    }
+  },
+  {
+    "id": "pizzeria-danvik",
+    "name": "Danviks Pizzeria & Grill",
+    "address": "Alsnögatan 7",
+    "neighborhood": "Danvikstull",
+    "lat": 59.3142,
+    "lng": 18.1025,
+    "rating": 4.2,
+    "reviews_count": 470,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Kvarterspizzeria i Danvikstull med utsikt mot inloppet och klassiska pizzor",
+    "hours": {
+      "open": "11:00",
+      "close": "21:00",
+      "display": "11:00 – 21:00"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 130,
+      "Margherita": 115,
+      "Vesuvio": 125,
+      "Quattro Stagioni": 140,
+      "Kebabpizza": 145
+    }
+  },
+  {
+    "id": "hornstulls-pizzabod",
+    "name": "Hornstulls Pizzabod",
+    "address": "Hornstulls strand 9",
+    "neighborhood": "Hornstull",
+    "lat": 59.3149,
+    "lng": 18.0315,
+    "rating": 4.3,
+    "reviews_count": 410,
+    "category": "craft",
+    "category_label": "Napolitansk & Hantverk",
+    "category_desc": "Mysigt pizzahak nere vid vattnet vid Hornstulls strand med krispig botten",
+    "hours": {
+      "open": "12:00",
+      "close": "21:00",
+      "display": "12:00 – 21:00"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 155,
+      "Margherita": 135,
+      "Vesuvio": 145,
+      "Quattro Stagioni": 165
+    }
+  },
+  {
+    "id": "pizzeria-corner-sofo",
+    "name": "Corner Pizzeria & Krog",
+    "address": "Nytorgsgatan 23",
+    "neighborhood": "Nytorget / SoFo",
+    "lat": 59.3137,
+    "lng": 18.0829,
+    "rating": 4.1,
+    "reviews_count": 330,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Trevligt hörnställe vid Nytorget med klassiska pizzor och öl på fat",
+    "hours": {
+      "open": "11:00",
+      "close": "22:00",
+      "display": "11:00 – 22:00"
+    },
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 130,
+      "Margherita": 115,
+      "Vesuvio": 125,
+      "Quattro Stagioni": 140,
+      "Kebabpizza": 145
+    }
+  },
+  {
+    "id": "patricia-pizza-soder",
+    "name": "Patricia Pizzeria",
+    "address": "Östgötagatan 20",
+    "neighborhood": "Medborgarplatsen / SoFo",
+    "lat": 59.316,
+    "lng": 18.0772,
+    "rating": 4,
+    "reviews_count": 270,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Kvarterspizzeria mitt emot Mosebackehöjden med snabb service",
+    "hours": {
+      "open": "11:00",
+      "close": "21:00",
+      "display": "11:00 – 21:00"
+    },
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 120,
+      "Margherita": 105,
+      "Vesuvio": 115,
+      "Quattro Stagioni": 130,
+      "Kebabpizza": 135
+    }
+  },
+  {
+    "id": "pizzeria-baner-soder",
+    "name": "Banér Pizzeria",
+    "address": "Ringvägen 104",
+    "neighborhood": "Skanstull",
+    "lat": 59.3094,
+    "lng": 18.0741,
+    "rating": 4.1,
+    "reviews_count": 360,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Klassisk kvarterspizzeria med kebab, pizza och calzone",
+    "hours": {
+      "open": "11:00",
+      "close": "21:00",
+      "display": "11:00 – 21:00"
+    },
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 125,
+      "Margherita": 110,
+      "Vesuvio": 120,
+      "Quattro Stagioni": 135,
+      "Kebabpizza": 140
+    }
+  },
+  {
+    "id": "il-giardino-trattoria-soder",
+    "name": "Trattoria Il Giardino",
+    "address": "Götgatan 48",
+    "neighborhood": "Medborgarplatsen",
+    "lat": 59.3148,
+    "lng": 18.0729,
+    "rating": 4.4,
+    "reviews_count": 670,
+    "category": "trattoria",
+    "category_label": "Italiensk restaurang & Trattoria",
+    "category_desc": "Italiensk restaurang med vedeldad stenugn och uteservering på Götgatan",
+    "hours": {
+      "open": "11:30",
+      "close": "23:00",
+      "display": "11:30 – 23:00"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 175,
+      "Margherita": 150,
+      "Vesuvio": 165,
+      "Quattro Stagioni": 185
+    }
+  },
+  {
+    "id": "pizzeria-aso-soder",
+    "name": "Pizzeria Åsö",
+    "address": "Åsögatan 115",
+    "neighborhood": "SoFo",
+    "lat": 59.3131,
+    "lng": 18.0825,
+    "rating": 4.2,
+    "reviews_count": 410,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Omtyckt kvarterspizzeria med tunn botten och färska råvaror",
+    "hours": {
+      "open": "11:00",
+      "close": "21:30",
+      "display": "11:00 – 21:30"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 130,
+      "Margherita": 115,
+      "Vesuvio": 125,
+      "Quattro Stagioni": 140,
+      "Kebabpizza": 145
+    }
+  },
+  {
+    "id": "pizza-hut-medis",
+    "name": "Pizza Hut Medborgarplatsen",
+    "address": "Götgatan 55",
+    "neighborhood": "Medborgarplatsen",
+    "lat": 59.3145,
+    "lng": 18.0734,
+    "rating": 3.7,
+    "reviews_count": 1450,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Amerikansk pan pizza-restaurang med pan-bottnar och lunchbuffé",
+    "hours": {
+      "open": "11:00",
+      "close": "22:00",
+      "display": "11:00 – 22:00"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": true,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "https://pizzahut.se",
+    "pizzas": {
+      "Capricciosa": 149,
+      "Margherita": 129,
+      "Vesuvio": 139,
+      "Quattro Stagioni": 159,
+      "Kebabpizza": 164
+    }
+  },
+  {
+    "id": "mezzaluna-trattoria-soder",
+    "name": "Trattoria Mezzaluna",
+    "address": "Kocksgatan 17",
+    "neighborhood": "SoFo",
+    "lat": 59.3143,
+    "lng": 18.0792,
+    "rating": 4.4,
+    "reviews_count": 590,
+    "category": "trattoria",
+    "category_label": "Italiensk restaurang & Trattoria",
+    "category_desc": "Genuin italiensk trattoria med stenugnspizzor och italienska charkuterier",
+    "hours": {
+      "open": "16:00",
+      "close": "22:30",
+      "display": "16:00 – 22:30"
+    },
+    "delivery": {
+      "wolt": false,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": true
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 170,
+      "Margherita": 145,
+      "Vesuvio": 160,
+      "Quattro Stagioni": 180
+    }
+  },
+  {
+    "id": "pizzeria-timmermansgatan",
+    "name": "Timmermans Pizzeria & Salladsbar",
+    "address": "Timmermansgatan 15",
+    "neighborhood": "Mariatorget",
+    "lat": 59.3178,
+    "lng": 18.0649,
+    "rating": 4.1,
+    "reviews_count": 290,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Kvarterspizzeria med goda luncher och klassiskt pizzautbud",
+    "hours": {
+      "open": "10:30",
+      "close": "21:00",
+      "display": "10:30 – 21:00"
+    },
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 120,
+      "Margherita": 105,
+      "Vesuvio": 115,
+      "Quattro Stagioni": 130,
+      "Kebabpizza": 135
+    }
+  },
+  {
+    "id": "rost-bistro-soder",
+    "name": "Rost Bistro & Pizza",
+    "address": "Wollmar Yxkullsgatan 50",
+    "neighborhood": "Zinkensdamm",
+    "lat": 59.3163,
+    "lng": 18.0522,
+    "rating": 4.4,
+    "reviews_count": 480,
+    "category": "craft",
+    "category_label": "Napolitansk & Hantverk",
+    "category_desc": "Kreativt café och bistro med vedugnspizzor och rustik inredning",
+    "hours": {
+      "open": "11:00",
+      "close": "20:00",
+      "display": "11:00 – 20:00"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Margherita": 140,
+      "Vesuvio": 150
+    }
+  },
+  {
+    "id": "pizzeria-tantolunden",
+    "name": "Tantolundens Grill & Pizza",
+    "address": "Ringvägen 22",
+    "neighborhood": "Zinkensdamm",
+    "lat": 59.3169,
+    "lng": 18.051,
+    "rating": 4,
+    "reviews_count": 310,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Kvarterskrog vid parken med klassisk pizzameny",
+    "hours": {
+      "open": "11:00",
+      "close": "21:00",
+      "display": "11:00 – 21:00"
+    },
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 125,
+      "Margherita": 110,
+      "Vesuvio": 120,
+      "Quattro Stagioni": 135,
+      "Kebabpizza": 140
+    }
+  },
+  {
+    "id": "soder-bistro-ugn",
+    "name": "Söder Pizzeria & Bistro",
+    "address": "Brännkyrkagatan 74",
+    "neighborhood": "Zinkensdamm",
+    "lat": 59.3182,
+    "lng": 18.0538,
+    "rating": 4.2,
+    "reviews_count": 270,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Liten kvarterspizzeria på Brännkyrkagatan",
+    "hours": {
+      "open": "11:00",
+      "close": "21:00",
+      "display": "11:00 – 21:00"
+    },
+    "delivery": {
+      "wolt": false,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": true,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 120,
+      "Margherita": 105,
+      "Vesuvio": 115,
+      "Quattro Stagioni": 130,
+      "Kebabpizza": 135
+    }
+  },
+  {
+    "id": "tavolo-verde-soder",
+    "name": "Tavolo Verde Trattoria",
+    "address": "Tavastgatan 11",
+    "neighborhood": "Mariatorget",
+    "lat": 59.3191,
+    "lng": 18.0619,
+    "rating": 4.5,
+    "reviews_count": 520,
+    "category": "trattoria",
+    "category_label": "Italiensk restaurang & Trattoria",
+    "category_desc": "Genuin italiensk krog på kullerstensgata med vedugnspizza",
+    "hours": {
+      "open": "16:30",
+      "close": "22:30",
+      "display": "16:30 – 22:30"
+    },
+    "delivery": {
+      "wolt": false,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": true
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Margherita": 155,
+      "Quattro Stagioni": 185
+    }
+  },
+  {
+    "id": "pizzeria-sofia-soder",
+    "name": "Pizzeria Sofia",
+    "address": "Borgmästargatan 12",
+    "neighborhood": "Sofia",
+    "lat": 59.3149,
+    "lng": 18.0905,
+    "rating": 4.2,
+    "reviews_count": 380,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Lugn kvarterspizzeria vid Sofia kyrka med trogna grannar",
+    "hours": {
+      "open": "11:00",
+      "close": "21:30",
+      "display": "11:00 – 21:30"
+    },
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 125,
+      "Margherita": 110,
+      "Vesuvio": 120,
+      "Quattro Stagioni": 135,
+      "Kebabpizza": 140
+    }
+  },
+  {
+    "id": "la-strada-soder",
+    "name": "La Strada Pizzeria",
+    "address": "Kocksgatan 56",
+    "neighborhood": "SoFo",
+    "lat": 59.3138,
+    "lng": 18.0875,
+    "rating": 4.1,
+    "reviews_count": 340,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Klassisk svensk pizzeria i östra SoFo",
+    "hours": {
+      "open": "11:00",
+      "close": "21:00",
+      "display": "11:00 – 21:00"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": true,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 128,
+      "Margherita": 112,
+      "Vesuvio": 122,
+      "Quattro Stagioni": 138,
+      "Kebabpizza": 143
+    }
+  },
+  {
+    "id": "pizzeria-hogalid",
+    "name": "Högalids Pizzeria & Grill",
+    "address": "Högalidsgatan 19",
+    "neighborhood": "Hornstull",
+    "lat": 59.3179,
+    "lng": 18.0385,
+    "rating": 4,
+    "reviews_count": 290,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Snabb och trevlig kvarterspizzeria nära Högalidskyrkan",
+    "hours": {
+      "open": "11:00",
+      "close": "21:00",
+      "display": "11:00 – 21:00"
+    },
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 120,
+      "Margherita": 105,
+      "Vesuvio": 115,
+      "Quattro Stagioni": 130,
+      "Kebabpizza": 135
+    }
+  },
+  {
+    "id": "trattoria-grazie-soder",
+    "name": "Trattoria Grazie",
+    "address": "Åsögatan 140",
+    "neighborhood": "SoFo",
+    "lat": 59.313,
+    "lng": 18.0855,
+    "rating": 4.4,
+    "reviews_count": 490,
+    "category": "trattoria",
+    "category_label": "Italiensk restaurang & Trattoria",
+    "category_desc": "Italiensk kvartersbistro med stenugnsbakad pizza och pastaklassiker",
+    "hours": {
+      "open": "16:00",
+      "close": "22:00",
+      "display": "16:00 – 22:00"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 170,
+      "Margherita": 145,
+      "Vesuvio": 160,
+      "Quattro Stagioni": 180
+    }
+  },
+  {
+    "id": "pizzeria-sodermollan",
+    "name": "Södermöllan Pizzeria",
+    "address": "Helgalunden 9",
+    "neighborhood": "Skanstull / Allhelgona",
+    "lat": 59.3098,
+    "lng": 18.0678,
+    "rating": 4.3,
+    "reviews_count": 370,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Gömd kvarterspärla i pittoreska Helgalunden",
+    "hours": {
+      "open": "11:30",
+      "close": "21:00",
+      "display": "11:30 – 21:00"
+    },
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 125,
+      "Margherita": 110,
+      "Vesuvio": 120,
+      "Quattro Stagioni": 135,
+      "Kebabpizza": 140
+    }
+  },
+  {
+    "id": "il-duomo-soder",
+    "name": "Il Duomo Pizzeria & Bar",
+    "address": "Götgatan 78",
+    "neighborhood": "Skanstull",
+    "lat": 59.3119,
+    "lng": 18.0742,
+    "rating": 4.2,
+    "reviews_count": 440,
+    "category": "trattoria",
+    "category_label": "Italiensk restaurang & Trattoria",
+    "category_desc": "Italienskt ställe på Götgatan med pizza, pasta och aperitivo",
+    "hours": {
+      "open": "11:00",
+      "close": "22:00",
+      "display": "11:00 – 22:00"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": true,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 155,
+      "Margherita": 135,
+      "Vesuvio": 145,
+      "Quattro Stagioni": 165
+    }
+  },
+  {
+    "id": "pizzeria-rekord-soder",
+    "name": "Pizzeria Rekord",
+    "address": "Ölandsgatan 45",
+    "neighborhood": "Skanstull",
+    "lat": 59.3106,
+    "lng": 18.0798,
+    "rating": 4.1,
+    "reviews_count": 320,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Klassisk svensk kvarterspizzeria i lugna kvarter nära Nytorget",
+    "hours": {
+      "open": "11:00",
+      "close": "21:00",
+      "display": "11:00 – 21:00"
+    },
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 125,
+      "Margherita": 110,
+      "Vesuvio": 120,
+      "Quattro Stagioni": 135,
+      "Kebabpizza": 140
+    }
+  },
+  {
+    "id": "bistro-sofo-ugn",
+    "name": "Bistro SoFo Stenugn",
+    "address": "Skånegatan 80",
+    "neighborhood": "SoFo",
+    "lat": 59.3126,
+    "lng": 18.0865,
+    "rating": 4.3,
+    "reviews_count": 450,
+    "category": "craft",
+    "category_label": "Napolitansk & Hantverk",
+    "category_desc": "Kvarterskrog i SoFo med stenugnsbakt surdegspizza och lokal öl",
+    "hours": {
+      "open": "16:00",
+      "close": "23:00",
+      "display": "16:00 – 23:00"
+    },
+    "delivery": {
+      "wolt": true,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 170,
+      "Margherita": 145,
+      "Vesuvio": 160,
+      "Quattro Stagioni": 180
+    }
+  },
+  {
+    "id": "la-coppa-soder",
+    "name": "La Coppa Ristorante",
+    "address": "Hornsgatan 110",
+    "neighborhood": "Zinkensdamm",
+    "lat": 59.3168,
+    "lng": 18.0455,
+    "rating": 4.4,
+    "reviews_count": 510,
+    "category": "trattoria",
+    "category_label": "Italiensk restaurang & Trattoria",
+    "category_desc": "Italiensk restaurang med pizzaugn och klassiska kötträtter",
+    "hours": {
+      "open": "16:00",
+      "close": "22:00",
+      "display": "16:00 – 22:00"
+    },
+    "delivery": {
+      "wolt": false,
+      "foodora": false,
+      "own_delivery": false,
+      "pickup_only": false,
+      "unknown": true
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 175,
+      "Margherita": 150
+    }
+  },
+  {
+    "id": "pizzeria-viking-soder",
+    "name": "Pizzeria Viking",
+    "address": "Katarina Bangata 33",
+    "neighborhood": "SoFo",
+    "lat": 59.3122,
+    "lng": 18.0832,
+    "rating": 4.2,
+    "reviews_count": 390,
+    "category": "classic",
+    "category_label": "Klassisk kvarterspizzeria",
+    "category_desc": "Klassisk kvarterspizzeria med kebabrullar, calzone och specialpizzor",
+    "hours": {
+      "open": "11:00",
+      "close": "21:30",
+      "display": "11:00 – 21:30"
+    },
+    "delivery": {
+      "wolt": false,
+      "foodora": true,
+      "own_delivery": true,
+      "pickup_only": false,
+      "unknown": false
+    },
+    "wolt_url": "",
+    "foodora_url": "",
+    "website_url": "",
+    "pizzas": {
+      "Capricciosa": 125,
+      "Margherita": 110,
+      "Vesuvio": 120,
+      "Quattro Stagioni": 135,
+      "Kebabpizza": 140
+    }
+  }
+]
